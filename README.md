@@ -1,4 +1,4 @@
-# akhilgithub.io# SHAPEAI WEB DEV BOOTCAMP
+# SHAPEAI WEB DEV BOOTCAMP
 
 
 
